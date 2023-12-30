@@ -1,0 +1,105 @@
+import { StyleSheet } from "react-native";
+
+const Edit_Profile_Styles = StyleSheet.create({
+  Main_container: {
+    flex: 1,
+    flexDirection: "column",
+  },
+  prefix: {
+    fontSize: 12,
+    fontFamily: "Poppins_500Medium",
+    top: 3,
+    paddingHorizontal: 10,
+    fontWeight: "bold",
+    color: "#FFFFFF",
+  },
+  inputContainer: {
+    flexDirection: "row",
+    alignItems: "center",
+    borderColor: "#E4E9F3",
+    height: 45,
+    marginTop: 10,
+    borderWidth: 1.0,
+    padding: 10,
+    borderRadius: 3,
+  },
+  prefixView: {
+    backgroundColor: "#51AB1D",
+    alignItems: "center",
+    height: 45,
+    marginTop: 10,
+    padding: 10,
+    borderRadius: 3,
+    marginRight: 10,
+  },
+
+  text: {
+    color: "#51AB1D",
+    fontSize: 21,
+    marginTop: "15%",
+    fontFamily: "Poppins_500Medium",
+  },
+  text_style_name: {
+    fontSize: 18,
+    fontWeight: "bold",
+    color: "black",
+    marginTop: 10,
+  },
+
+  text_input: {
+    marginTop: 5,
+    borderRadius: 5,
+    padding: 12,
+    width: 286,
+    height: 45,
+    color: "gray",
+    borderWidth: 1,
+    borderColor: "#E4E9F3",
+    fontSize: 12,
+    fontFamily: "Poppins_500Medium",
+  },
+  text_input_mobile: {
+    marginTop: 5,
+    borderRadius: 5,
+    width: 286,
+    height: 50,
+    color: "gray",
+    borderWidth: 1,
+    borderColor: "#E4E9F3",
+    fontSize: 12,
+    fontFamily: "Poppins_500Medium",
+  },
+  Button: {
+    marginTop: 20,
+    height: 50,
+    borderColor: "black",
+    borderRadius: 4,
+    backgroundColor: "#53ab1b",
+    width: 286,
+    alignContent: "center",
+    alignItems: "center",
+    padding: 10,
+  },
+  child_view: {
+    flex: 1,
+    marginTop: "10%",
+    alignContent: "center",
+    alignSelf: "center",
+  },
+  logoViewStyle: {},
+  heading: {
+    fontSize: 12,
+    fontFamily: "Poppins_600SemiBold",
+  },
+  PhoneContainer: {
+    height: "100%",
+    width: "100%",
+    borderRadius: 4,
+    borderWidth: 1,
+    borderColor: "#E4E9F3",
+    color: "white",
+
+    backgroundColor: "#51AB1D",
+  },
+});
+export default Edit_Profile_Styles;

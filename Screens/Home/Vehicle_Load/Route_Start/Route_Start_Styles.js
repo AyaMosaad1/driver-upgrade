@@ -1,0 +1,110 @@
+import { StyleSheet } from "react-native";
+const Route_Start_Styles = StyleSheet.create({
+  innerContainerAddress: {
+    flexDirection: "row",
+    alignItems: "center",
+    padding: "3%",
+  },
+  innerContainerroute: {
+    flexDirection: "row",
+    alignItems: "center",
+    padding: "4%",
+  },
+  Button: {
+    height: 33,
+    borderColor: "black",
+    borderRadius: 4,
+    backgroundColor: "#FEE612",
+    width: "48%",
+    justifyContent: "center",
+    alignItems: "center",
+  },
+  Buttongreen: {
+    height: 33,
+    borderColor: "black",
+    borderRadius: 4,
+    backgroundColor: "#51AB1D",
+    width: "48%",
+    justifyContent: "center",
+    alignItems: "center",
+  },
+  innerContainerrow: {
+    flexDirection: "row",
+    alignItems: "center",
+    marginBottom: "2%",
+  },
+  innerContainertime: {
+    flexDirection: "row",
+    alignItems: "center",
+    padding: "2%",
+    marginLeft: "10%",
+  },
+  container: {
+    flex: 1,
+    backgroundColor: "#FFE713",
+  },
+  itemsimgview: {
+    paddingTop: "2%",
+    flexDirection: "row",
+  },
+  innerContainer: {
+    flex: 10,
+    paddingTop: "5%",
+    backgroundColor: "transparent",
+    borderTopRightRadius: 50,
+    borderTopLeftRadius: 50,
+    backgroundColor: "white",
+    shadowColor: "#000000",
+    shadowOffset: { width: 0, height: 2 },
+    shadowOpacity: 0.9,
+    shadowRadius: 8,
+    elevation: 30,
+  },
+  mapview: {
+    marginRight: "5%",
+    borderRadius: 10,
+    borderWidth: 1,
+    borderColor: "transparent",
+    height: "55%",
+    marginLeft: "5%",
+  },
+  header: {
+    alignItems: "center",
+    alignContent: "center",
+    flexDirection: "row",
+  },
+  headerTitle: {
+    paddingLeft: "20%",
+    paddingTop: "10%",
+    fontFamily: "Poppins_500Medium",
+    fontSize: 18,
+    fontWeight: "700",
+    // fontFamily:'Inter_900Black',
+    paddingBottom: "2.2%",
+  },
+  backStyle: {
+    paddingTop: "8%",
+    paddingLeft: "6%",
+  },
+
+  home_txt: {
+    fontSize: 20,
+    paddingLeft: "30%",
+    fontWeight: "bold",
+    alignSelf: "center",
+  },
+  Heading1: {
+    fontSize: 18,
+    fontFamily: "Poppins_500Medium",
+  },
+  routedetails: {
+    borderWidth: 0.8,
+    borderColor: "#E4E9F3",
+    borderRadius: 6,
+    backgroundColor: "white",
+    marginRight: "5%",
+    marginLeft: "5%",
+    marginTop: "2%",
+  },
+});
+export default Route_Start_Styles;

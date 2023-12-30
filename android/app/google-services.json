@@ -1,0 +1,98 @@
+{
+  "project_info": {
+    "project_number": "65869447920",
+    "firebase_url": "https://shorex-94468-default-rtdb.firebaseio.com",
+    "project_id": "shorex-94468",
+    "storage_bucket": "shorex-94468.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:65869447920:android:35f2a4ee7166f3cc2e3835",
+        "android_client_info": {
+          "package_name": "com.shorex.Customer"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "65869447920-m6r5u2io2frpqjooo49fm8cb5bgc52go.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD7kKVbZjyBnaRuDCBbnXyOr5LTndK6UVQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "65869447920-m6r5u2io2frpqjooo49fm8cb5bgc52go.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:65869447920:android:629c693ed5954c632e3835",
+        "android_client_info": {
+          "package_name": "com.shorexdriver"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "65869447920-m6r5u2io2frpqjooo49fm8cb5bgc52go.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD7kKVbZjyBnaRuDCBbnXyOr5LTndK6UVQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "65869447920-m6r5u2io2frpqjooo49fm8cb5bgc52go.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:65869447920:android:ae36b79ff8776a532e3835",
+        "android_client_info": {
+          "package_name": "com.shorexwarehouse"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "65869447920-m6r5u2io2frpqjooo49fm8cb5bgc52go.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD7kKVbZjyBnaRuDCBbnXyOr5LTndK6UVQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "65869447920-m6r5u2io2frpqjooo49fm8cb5bgc52go.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
