@@ -1,3 +1,4 @@
 <resources>
-    <string name="app_name">Driver</string>
+  <string name="app_name">shorex_driver</string>
+  <string name="ExpoLocalization_supportsRTL" translatable="false">undefined</string>
 </resources>
